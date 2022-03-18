@@ -37,10 +37,6 @@ public class MainActivity extends AppCompatActivity {
                 button.setBackgroundColor(getResources().getColor(R.color.pink));
             }
 
-            else if(mCount==0){
-                button.setBackgroundColor(getResources().getColor(R.color.gray));
-            }
-
             else{
                 button.setBackgroundColor(getResources().getColor(R.color.gray));
             }
